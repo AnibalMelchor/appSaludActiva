@@ -52,6 +52,9 @@ Una vez ejecutada la aplicación, la documentación interactiva está disponible
 3. Hacer clic en el botón **Authorize** (arriba a la derecha), pegar el token y autorizar.
 
 ---
+##  Demo en Vivo
+
+- **API REST & Documentación (Swagger UI):** [https://app-salud-activa-api.onrender.com/swagger-ui/index.html](https://app-salud-activa-api.onrender.com/swagger-ui/index.html)
 
 ## Autor
 
